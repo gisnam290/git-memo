@@ -1,5 +1,7 @@
 wake up
 
 eat
-
+  --
 wash
+
+dress
