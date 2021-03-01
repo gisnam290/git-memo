@@ -2,6 +2,4 @@ wake up
 
 eat
   --
-wash
-
-dress
+go back to sleep
